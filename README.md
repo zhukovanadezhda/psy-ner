@@ -17,5 +17,6 @@ A customized NER model that can recognize mental disorders, psychedelic drugs, a
 Thus, a customized NER model can improve the accuracy of mental health diagnoses, support research and development efforts, and reinforce the study of the therapeutic use of psychedelic drugs. The model's importance lies in its ability to identify relevant data more efficiently, enabling professionals to make informed decisions and take appropriate action.
 
 [1] https://www.who.int/news-room/fact-sheets/detail/mental-disorders
+
 [2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643046/
 
