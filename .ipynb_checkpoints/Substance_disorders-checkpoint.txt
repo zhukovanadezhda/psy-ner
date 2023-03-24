@@ -1,0 +1,119 @@
+Substance-induced disorder 
+Substance-induced psychosis
+Substance-induced delirium
+Substance-induced mood disorder
+Substance intoxication
+Substance withdrawal
+Substance dependence
+Alcohol use disorder
+Alcoholic hallucinosis
+Alcohol withdrawal
+Harmful pattern of use of alcohol
+Cannabis use disorder
+Cannabis dependence
+Cannabis intoxication
+Harmful pattern of use of cannabis
+Cannabis withdrawal
+Cannabis-induced delirium
+Cannabis-induced psychosis
+Cannabis-induced mood disorder
+Cannabis-induced anxiety
+Episode of harmful use of synthetic cannabinoids
+Harmful pattern of use of synthetic cannabinoids
+Synthetic cannabinoid dependence
+Synthetic cannabinoid intoxication
+Synthetic cannabinoids withdrawal
+Synthetic cannabinoids induced delirium
+Synthetic cannabinoids induced psychotic disorder
+Synthetic cannabinoids induced mood disorder
+Synthetic cannabinoids induced anxiety
+Episode of harmful use of Opioids
+Harmful pattern of use of Opioids
+Opioid dependence
+Opioid intoxication
+Opioids withdrawal
+Opioids induced delirium
+Opioids induced psychotic disorder
+Opioids induced mood disorder
+Opioids induced anxiety
+Episode of harmful use of Sedative, hypnotic or anxiolytic
+Harmful pattern of use of Sedative, hypnotic or anxiolytic
+Sedative, hypnotic or anxiolytic dependence
+Sedative, hypnotic or anxiolytic intoxication
+Sedative, hypnotic or anxiolytic withdrawal
+Sedative, hypnotic or anxiolytic induced delirium
+Sedative, hypnotic or anxiolytic induced psychotic disorder
+Sedative, hypnotic or anxiolytic induced mood disorder
+Sedative, hypnotic or anxiolytic induced anxiety
+Amnestic disorder due to use of sedatives, hypnotics or anxiolytics
+Dementia due to use of sedatives, hypnotics or anxiolytics
+Episode of harmful use of Cocaine
+Harmful pattern of use of Cocaine
+Cocaine dependence
+Cocaine intoxication
+Cocaine withdrawal
+Cocaine induced delirium
+Cocaine induced psychotic disorder
+Cocaine induced mood disorder
+Cocaine induced anxiety
+Cocaine induced OCD
+Cocaine induced impulse control disorder
+Episode of harmful use of Amphetamines
+Harmful pattern of use of Amphetamines
+Amphetamines dependence
+Amphetamines intoxication
+Amphetamines withdrawal
+Amphetamines induced delirium
+Amphetamines induced psychotic disorder
+Amphetamines induced mood disorder
+Amphetamines induced anxiety
+Amphetamines induced OCD
+Amphetamines induced impulse control disorder
+Episode of harmful use of synthetic cathinone
+Harmful pattern of use of synthetic cathinone
+Synthetic cathinone dependence
+Synthetic cathinone intoxication
+Synthetic cathinone withdrawal
+Synthetic cathinone induced delirium
+Synthetic cathinone induced psychotic disorder
+Synthetic cathinone induced mood disorder
+Synthetic cathinone induced anxiety
+Synthetic cathinone induced OCD
+Synthetic cathinone induced impulse control disorder
+Episode of harmful use of caffeine
+Harmful pattern of use of caffeine
+Caffeine intoxication
+Caffeine withdrawal
+Caffeine induced anxiety disorder
+Caffeine-induced sleep disorder
+Episode of harmful use of hallucinogens
+Harmful pattern of use of hallucinogens
+Hallucinogens dependence
+Hallucinogen induced delirium
+Hallucinogens induced psychotic disorder
+Hallucinogens induced anxiety disorder
+Hallucinogens induced mood disorder
+Hallucinogen persisting perception disorder
+Episode of harmful use of nicotine
+Harmful pattern of use of nicotine
+nicotine intoxication
+nicotine withdrawal
+Nicotine dependence
+Episode of harmful use of volatile inhalants
+Harmful pattern of use of volatile inhalants
+Opioid dependence
+Opioid intoxication
+Volatile inhalants withdrawal
+Volatile inhalants induced delirium
+Volatile inhalants induced psychotic disorder
+Volatile inhalants induced mood disorder
+Volatile inhalants induced anxiety
+Episode of harmful use of dissociative drugs including ketamine and phencyclidine [PCP]
+Harmful pattern of use of dissociative drugs including ketamine and phencyclidine [PCP]
+Dissociative drugs including ketamine and phencyclidine [PCP] dependence
+Dissociative drugs including ketamine and phencyclidine [PCP] intoxication
+Dissociative drugs including ketamine and phencyclidine [PCP] withdrawal
+Dissociative drugs including ketamine and phencyclidine [PCP] induced delirium
+Dissociative drugs including ketamine and phencyclidine [PCP] induced psychotic disorder
+Dissociative drugs including ketamine and phencyclidine [PCP]induced mood disorder
+Dissociative drugs including ketamine and phencyclidine [PCP] induced anxiety
