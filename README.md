@@ -41,5 +41,5 @@ A base_config.cfg file was created using https://spacy.io/usage/training#config,
 
 #### 3. Evaluation of the model's performance
 
-* commimg soon *
+\* commimg soon *
 
