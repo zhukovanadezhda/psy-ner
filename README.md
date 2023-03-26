@@ -37,7 +37,7 @@ Abstracts of articles containing the words "psychedelics", "anxiety", and "depre
 
 #### 2. Training of the model
 
-A base_config.cfg file was created using https://spacy.io/usage/training#config, which was then converted to the config.file for training the model. The model (both last and best) is stored in the model folder. The notebook psyner.ipynb shows all the training steps, and the datahelper.py script contains all necessary functions.
+A base_config.cfg file was created using https://spacy.io/usage/training#config, which was then converted to the config.file for training the model. The model was trained on 334 texts and tested on 175 tests. The model (both last and best) is stored in the model folder. The notebook psyner.ipynb shows all the training steps, and the datahelper.py script contains all necessary functions.
 
 #### 3. Evaluation of the model's performance
 
