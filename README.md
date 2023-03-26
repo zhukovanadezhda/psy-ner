@@ -1,4 +1,4 @@
-# PsyNer : Custom Named Entity Recognition (NER) model for mental health purposes
+# PsyNer : Custom Named Entity Recognition model for mental health purposes
 
 ## Introduction
 
