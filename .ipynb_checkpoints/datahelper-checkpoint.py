@@ -50,7 +50,7 @@ def generate_rules(patterns):
     nlp = English()
     ruler = nlp.add_pipe("entity_ruler")
     ruler.add_patterns(patterns)
-    nlp.to_disk("psy_ner")
+    nlp.to_disk("annotation_ner")
 
 def test_model(model, text):
     text = unidecode(text)
@@ -130,3 +130,59 @@ def get_abstract_from_summary(summary):
     except:
         print('No abstract')
         return None
+
+def pretty_colors():
+    colors = {
+        "ANXIETY DISORDERS": "#F6A5C0",
+        "BIPOLAR DISORDERS": "#F7D6CB",
+        "DEPRESSIVE DISORDERS": "#C7CEEA",
+        "DISSOCIATIVE DISORDERS": "#F7DDAA",
+        "PSYCHEDELIC DRUGS": "#D3BCC0",
+        "EATING DISORDERS": "#F7E5C8",
+        "NEURO-COGNITIVE DISORDERS": "#A8D8EA",
+        "NEURO-DEVELOPMENTAL DISORDERS": "#D5A6BD",
+        "NON-SUBSTANCE RELATED DISORDERS": "#F4C9A4",
+        "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS": "#F1D1D0",
+        "OTHER DISORDERS": "#C8BFE7",
+        "PARAPHILIAS": "#D2E0E3",
+        "PERSONALITY DISORDERS": "#F6B7B8",
+        "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS": "#A2B7DC",
+        "SEXUAL DYSFUNCTIONS": "#E6A7CF",
+        "SLEEP-WAKE DISORDERS": "#F4B4C1",
+        "SOMATIC SYMPTOM RELATED DISORDERS": "#B4D4E7",
+        "SUBSTANCE-RELATED DISORDERS": "#F5C5D1",
+        "TRAUMA AND STRESS RELATED DISORDERS": "#D1D2C9",
+        "ELIMINATION DISORDERS": "#E8A9C7",
+        "DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS": "#D3E3F5",
+        "SYMPTOMS": "#C3B7B7"
+    }
+
+    options = {"ents": [
+        "ANXIETY DISORDERS",
+        "BIPOLAR DISORDERS",
+        "DEPRESSIVE DISORDERS",
+        "DISSOCIATIVE DISORDERS",
+        "PSYCHEDELIC DRUGS",
+        "EATING DISORDERS",
+        "NEURO-COGNITIVE DISORDERS",
+        "NEURO-DEVELOPMENTAL DISORDERS",
+        "NON-SUBSTANCE RELATED DISORDERS",
+        "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS",
+        "OTHER DISORDERS",
+        "PARAPHILIAS",
+        "PERSONALITY DISORDERS",
+        "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS",
+        "SEXUAL DYSFUNCTIONS",
+        "SLEEP-WAKE DISORDERS",
+        "SOMATIC SYMPTOM RELATED DISORDERS",
+        "SUBSTANCE-RELATED DISORDERS",
+        "TRAUMA AND STRESS RELATED DISORDERS",
+        "ELIMINATION DISORDERS",
+        "DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS",
+        "SYMPTOMS"
+    ],
+        "colors": colors
+    }
+    
+    return options
+

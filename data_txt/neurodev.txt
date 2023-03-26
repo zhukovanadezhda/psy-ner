@@ -1,120 +1,120 @@
-Attention-Deficit
-MOTOR 
-dyscalculia 
-Autism
-Tic
-social communication disorder 
-LANGUAGE DISORDER 
-Dyscalculia
-Language disorder
-Rett syndrome
-Nonverbal learning disorder 
-Attention-deficit 
-INTELLECTUAL DISABILITY 
-Nonverbal learning Disorder
-SOCIAL COMMUNICATION DISORDER 
-RETT SYNDROME 
-asperger syndrome 
-NONVERBAL LEARNING DISORDER 
-NLD 
-Developmental coordination disorder 
-Hyperactivity 
-Dyscalculia 
-Language disorder 
-Specific learning disorder 
-ADHD
-nonverbal learning disorder 
-SPEECH SOUND DISORDER 
-nvld 
-Dysgraphia
-Dyslexia
-Tourette syndrome 
-Classic autism 
-Tic disorder 
-Nvld 
-Developmental coordination disorder
-communication disorder 
-Dyslexia 
-intellectual disability 
-AUTISM SPECTRUM DISORDER 
-ADHD 
-Social communication disorder 
-Classic autism
-TIC 
-Motor 
-hyperactivity 
-Rett
-autism 
-DEVELOPMENTAL COORDINATION DISORDER 
-Speech sound disorder
-Stuttering
-DYSCALCULIA 
-dyslexia 
-developmental coordination disorder 
-ASPERGER SYNDROME 
-autism spectrum 
-NVLD 
 Autism spectrum disorder 
-nld 
-specific learning disorder 
-Asperger 
-Adhd 
-SPECIFIC LEARNING DISORDER 
-autism spectrum disorder 
-Communication disorder 
-tic 
-Stuttering 
-Tic disorder
-DYSLEXIA 
-Rett 
-Speech sound disorder 
-Asperger syndrome 
 Intellectual Disability
-Rett syndrome 
-Tourette syndrome
-COMMUNICATION DISORDER 
-tourette 
-RETT 
-Asperger syndrome
-HYPERACTIVITY 
-TIC DISORDER 
-nldintellectual disability 
-dysgraphia 
-Tourette
-adhd 
-Autism spectrum 
-tic disorder 
-Nld 
-DYSGRAPHIA 
-STUTTERING 
-Autism Spectrum
-AUTISM SPECTRUM 
-ASPERGER 
-NLDintellectual disability 
-tourette syndrome 
-speech sound disorder 
 Tourette 
-Dysgraphia 
-Specific Learning Disorder
-Autism Spectrum Disorder
-rett syndrome 
+ASPERGER SYNDROME 
+Tourette
+Communication disorder 
 Asperger
-TOURETTE 
-stuttering 
-rett 
-motor 
-Tic 
-NLDINTELLECTUAL DISABILITY 
-classic autism 
+nonverbal learning disorder 
+dyslexia 
+Nvld 
+communication disorder 
+Motor 
+Classic autism 
+Autism Spectrum Disorder
+Rett syndrome 
+DYSLEXIA 
+ADHD
 Intellectual disability 
-CLASSIC AUTISM 
-AUTISM 
-ATTENTION-DEFICIT 
+AUTISM SPECTRUM 
+social communication disorder 
+adhd 
+Language disorder
+dyscalculia 
+Attention-Deficit
+Developmental coordination disorder 
+AUTISM SPECTRUM DISORDER 
+Dyslexia 
+Dyscalculia
+Rett
+asperger syndrome 
+Attention-deficit 
+Speech sound disorder
+motor 
+LANGUAGE DISORDER 
+Specific Learning Disorder
+Dysgraphia
+autism 
+Tic disorder
+hyperactivity 
+Autism spectrum 
+nvld 
+Adhd 
+Stuttering
+nld 
+TIC DISORDER 
+Tic
+classic autism 
+Nonverbal learning disorder 
+TIC 
+Nld 
+Rett syndrome
+Tic disorder 
+ADHD 
+autism spectrum disorder 
+INTELLECTUAL DISABILITY 
+RETT 
+Stuttering 
+specific learning disorder 
+tourette 
+Speech sound disorder 
+DEVELOPMENTAL COORDINATION DISORDER 
+rett 
+Hyperactivity 
+autism spectrum 
 Social communication disorder
-TOURETTE SYNDROME 
-language disorder 
+STUTTERING 
+intellectual disability 
+Nonverbal learning Disorder
+Language disorder 
+nldintellectual disability 
+Developmental coordination disorder
 asperger 
-Autism 
-Nldintellectual disability 
+Dyscalculia 
+Autism
+Dyslexia
+NONVERBAL LEARNING DISORDER 
+Asperger syndrome 
+Asperger syndrome
+speech sound disorder 
+rett syndrome 
+ASPERGER 
+HYPERACTIVITY 
+AUTISM 
+NLD 
+Asperger 
+SPEECH SOUND DISORDER 
+Rett 
+NVLD 
+SOCIAL COMMUNICATION DISORDER 
+SPECIFIC LEARNING DISORDER 
+NLDintellectual disability 
 Communication Disorder
+Tourette syndrome
+TOURETTE 
+language disorder 
+DYSGRAPHIA 
+CLASSIC AUTISM 
+dysgraphia 
+NLDINTELLECTUAL DISABILITY 
+Nldintellectual disability 
+RETT SYNDROME 
+TOURETTE SYNDROME 
+MOTOR 
+Tic 
+Autism Spectrum
+tic 
+Tourette syndrome 
+tic disorder 
+stuttering 
+ATTENTION-DEFICIT 
+DYSCALCULIA 
+Autism 
 attention-deficit 
+developmental coordination disorder 
+Dysgraphia 
+tourette syndrome 
+Social communication disorder 
+Specific learning disorder 
+Classic autism
+COMMUNICATION DISORDER 
