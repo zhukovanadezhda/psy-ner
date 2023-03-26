@@ -1,6 +1,6 @@
 # PsyNer : Custom Named Entity Recognition model for mental health purposes
 
-## Introduction
+## Introduction 
 
 The World Health Organization (WHO) reports that mental health disorders affect approximately one in four individuals globally, with depression being a leading cause of disability. [1] However, nearly two-thirds of individuals with known mental disorders do not seek help from a professional. The European region has the highest prevalence of mental disorders globally, with an estimated 164 million individuals affected, according to the WHO.
 
