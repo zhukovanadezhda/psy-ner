@@ -1,23 +1,55 @@
+# default libraries
 import json
-import spacy
-from spacy.pipeline import EntityRuler
-from spacy.lang.en import English
 import os
 import random
-import requests
 import warnings
+
+# installed libraries
+import spacy
+from spacy.lang.en import English
+from spacy.pipeline import EntityRuler
+import requests
 import xmltodict
 from unidecode import unidecode
 
+
 def load_data(file):
+    """
+    Loads data from a JSON file and returns it as a dictionary.
+    
+    Parameters
+    ----------
+    file : str
+        The path of the json file.
+
+    Returns
+    -------
+    data : dict
+    The content of the json file.
+    
+    """
     with open(file, "r", encoding="utf-8") as f:
         data = json.load(f)
     return data
 
 def upgrade_data(file):
+    """
+    Upgrades the data in a text file by adding lowercase, capitalized and uppercase variations of each line.
+    
+    Parameters
+    ----------
+    file : str
+        The path of the file.
+
+    Returns
+    -------
+    None
+    
+    """
     objects = []
     with open(file, "r", encoding="utf-8") as f:
         for line in f.readlines():
+            # add lowercase, capitalized, and uppercase versions of the object
             objects.append(line.lower().strip())
             objects.append(line.capitalize().strip())
             objects.append(line.upper().strip())
@@ -26,17 +58,64 @@ def upgrade_data(file):
             f.write(f"{object} \n")
 
 def delete_dublicates(file):
+    """
+    Deletes duplicate lines from a text file.
+    
+    Parameters
+    ----------
+    file : str
+        The path of the file.
+
+    Returns
+    -------
+    None
+    
+    """
     with open(file, "r") as f:
         lines = f.readlines()
+    # use a set to remove duplicates
     lines = list(set(lines))
     with open(file, "w") as f:
         f.writelines(lines)
 
 def save_data(file, data):
+    """
+    Saves a dictionary as a JSON file.
+    
+    Parameters
+    ----------
+    file : str
+        The path of the output json file.
+    data : dict
+        The dictionary to be saved.
+
+    Returns
+    -------
+    None
+    
+    """
     with open (file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
         
 def create_training_data(patterns, file, type):
+    """
+    Creates training data for the entity ruler.
+    
+    Parameters
+    ----------
+    patterns : list
+        The list of patterns.
+    file : str
+        The path of the file containing a list of strings.
+    type : str
+        The type of entities that the patterns belong to.
+
+    Returns
+    -------
+    patterns : list
+        The updated list of patterns.
+    
+    """
     data = load_data(file)
     for item in data:
         pattern = {
@@ -47,12 +126,42 @@ def create_training_data(patterns, file, type):
     return patterns
 
 def generate_rules(patterns):
+    """ 
+    Generates the entity ruler rules and save them to disk.
+    
+    Parameters
+    ----------
+    patterns : list
+        The list of patterns.
+
+    Returns
+    -------
+    None
+    
+    """
     nlp = English()
     ruler = nlp.add_pipe("entity_ruler")
     ruler.add_patterns(patterns)
     nlp.to_disk("annotation_ner")
 
 def test_model(model, text):
+    """
+    Tests the entity recognition model on a given text. 
+    
+    Parameters
+    ----------
+    model : spacy language model
+        The trained spacy language model.
+    text : str
+        The text to be processed.
+
+    Returns
+    -------
+    results : list
+        The list containing the original text and its annotated entities in the format [(start_char, end_char, label), ...]
+    
+    """
+    # remove accents from the text
     text = unidecode(text)
     doc = model(text)
     results = []
@@ -70,6 +179,7 @@ def test_model(model, text):
 
 def get_summary(PMID):
     """Obtaining information about an article published in PubMed using the PubMed API.
+    
     Parameters
     ----------
     PMID : int
@@ -78,6 +188,7 @@ def get_summary(PMID):
         Access token for github.
     log_file : str
         A file to store information about the errors provided by this function.
+        
     Returns
     -------
     summary : dictionary
@@ -100,12 +211,14 @@ def get_summary(PMID):
 
 def get_abstract_from_summary(summary):
     """Obtaining abstract from the dictionary with summary returned by PubMed API.
+    
     Parameters
     ----------
     summary : dictionary
         A dictionary obtained from xml format provided by pubmed api entrez.
     log_file : str
         A file to store information about the errors provided by this function.
+        
     Returns
     -------
     abstract : str
@@ -132,6 +245,18 @@ def get_abstract_from_summary(summary):
         return None
 
 def pretty_colors():
+    """
+    Sets colors to the spacy function displacy do display found entities.
+    
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    options : dic
+        A dictionary with different colors for each label.
+    """
     colors = {
         "ANXIETY DISORDERS": "#F6A5C0",
         "BIPOLAR DISORDERS": "#F7D6CB",
