@@ -22,8 +22,20 @@
     ],
     "ner":[
       "ANXIETY DISORDERS",
+      "BIPOLAR DISORDERS",
       "DEPRESSIVE DISORDERS",
+      "DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS",
+      "DISSOCIATIVE DISORDERS",
+      "EATING DISORDERS",
+      "NEURO-COGNITIVE DISORDERS",
+      "NEURO-DEVELOPMENTAL DISORDERS",
+      "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS",
+      "PERSONALITY DISORDERS",
       "PSYCHEDELIC DRUGS",
+      "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS",
+      "SEXUAL DYSFUNCTIONS",
+      "SLEEP-WAKE DISORDERS",
+      "SOMATIC SYMPTOM RELATED DISORDERS",
       "SUBSTANCE-RELATED DISORDERS",
       "SYMPTOMS",
       "TRAUMA AND STRESS RELATED DISORDERS"
@@ -41,27 +53,92 @@
 
   ],
   "performance":{
-    "ents_f":0.0,
-    "ents_p":0.0,
-    "ents_r":0.0,
+    "ents_f":0.8936170213,
+    "ents_p":0.8987341772,
+    "ents_r":0.8885578069,
     "ents_per_type":{
-      "SYMPTOMS":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      },
       "PSYCHEDELIC DRUGS":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+        "p":0.9902912621,
+        "r":0.974522293,
+        "f":0.9823434992
       },
       "DEPRESSIVE DISORDERS":{
+        "p":0.995049505,
+        "r":0.9757281553,
+        "f":0.9852941176
+      },
+      "OBSESSIVE-COMPULSIVE AND RELATED DISORDERS":{
+        "p":0.8235294118,
+        "r":1.0,
+        "f":0.9032258065
+      },
+      "SYMPTOMS":{
+        "p":0.6394557823,
+        "r":0.8,
+        "f":0.7107750473
+      },
+      "BIPOLAR DISORDERS":{
+        "p":0.625,
+        "r":0.7142857143,
+        "f":0.6666666667
+      },
+      "ANXIETY DISORDERS":{
+        "p":0.5679012346,
+        "r":0.3262411348,
+        "f":0.4144144144
+      },
+      "SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS":{
+        "p":0.9444444444,
+        "r":1.0,
+        "f":0.9714285714
+      },
+      "SUBSTANCE-RELATED DISORDERS":{
+        "p":0.9069767442,
+        "r":0.9069767442,
+        "f":0.9069767442
+      },
+      "SLEEP-WAKE DISORDERS":{
+        "p":0.75,
+        "r":1.0,
+        "f":0.8571428571
+      },
+      "TRAUMA AND STRESS RELATED DISORDERS":{
+        "p":0.8974358974,
+        "r":0.9722222222,
+        "f":0.9333333333
+      },
+      "NEURO-DEVELOPMENTAL DISORDERS":{
+        "p":0.9411764706,
+        "r":0.8,
+        "f":0.8648648649
+      },
+      "NEURO-COGNITIVE DISORDERS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "SOMATIC SYMPTOM RELATED DISORDERS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "EATING DISORDERS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "NON-SUBSTANCE RELATED DISORDERS":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "DISSOCIATIVE DISORDERS":{
         "p":0.0,
         "r":0.0,
         "f":0.0
       }
     },
-    "tok2vec_loss":0.0000080307,
-    "ner_loss":0.0000099512
+    "tok2vec_loss":9467.3595164053,
+    "ner_loss":252.9603561045
   }
 }
