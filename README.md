@@ -6,7 +6,7 @@ The World Health Organization (WHO) reports that mental health disorders affect 
 
 Although conventional treatments such as antidepressant medications and talk therapy can be effective for some individuals, many of them do not respond well to these methods. Therefore, there is an urgent need for new and effective treatments for mental health disorders. Psychedelics have received much scientific attention in recent years due to their potential to help with mental health disorders. Research has shown that psychedelic drugs such as psilocybin, LSD, and MDMA have potential therapeutic benefits for mental health conditions such as depression, anxiety, and PTSD. A study published in The Lancet Psychiatry in 2021 found that psilocybin therapy was more effective than conventional antidepressant medication in treating depression. [2]
 
-However, several challenges arise when researching mental health and psychedelics, which may limit productivity and delay much-needed relief. These challenges include the large volume of data on mental health disorders and the therapeutic use of psychedelics, inconsistent terminology used across different studies and sources, and a growing trend of analyzing social media [3] to understand people's experiences using psychedelics to treat mental health disorders. In some countries, studies with psychedelics are not allowed, making it difficult for researchers to study their therapeutic use. However, people may still use psychedelics illegally and share their experiences on social media platforms. Analyzing this data may provide some insights into the potential therapeutic benefits of psychedelics for mental health disorders. In fact, some studies have already analyzed social media data to explore people's experiences with psychedelic use for mental health conditions.
+However, several challenges arise when researching mental health and psychedelics, which may limit productivity and delay much-needed relief. These challenges include the large volume of data on mental health disorders and the therapeutic use of psychedelics, inconsistent terminology used across different studies and sources, and a growing trend of analyzing social media [3] to understand people's experiences using psychedelics to treat mental health disorders. In some countries, studies with psychedelics are not allowed, making it difficult for researchers to study their therapeutic use. However, people may still use psychedelics illegally and share their experiences on social media platforms. Analyzing this data may provide some insights into the potential therapeutic benefits of psychedelics for mental health disorders. In fact, some studies have already analyzed social media data to explore people's experiences with psychedelic use for mental health conditions. [6]
 
 An implementation of an appropriate technical solution would assiste in resolving these issues and provide a powerfull tool to strengthen this branch of studies. 
 
@@ -25,6 +25,8 @@ Thus, a customized NER model can improve the accuracy of mental health diagnoses
 [4] https://www.frontiersin.org/articles/10.3389/fdgth.2022.1065581/full
 
 [5] https://www.researchgate.net/profile/Holger-Froehlich-4/publication/358779855_Deep_Learning-based_Detection_of_Psychiatric_Attributes_from_German_Mental_Health_Records/links/62f13b870b37cc34477e99df/Deep-Learning-based-Detection-of-Psychiatric-Attributes-from-German-Mental-Health-Records.pdf?origin=publication_detail
+
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10012542/
 
 ## Implementatioin
 
