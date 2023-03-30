@@ -14,7 +14,7 @@ Named Entity Recognition (NER) is a subfield of natural language processing (NLP
 
 A customized NER model that can recognize mental disorders, psychedelic drugs, and related vocabulary has the potential to address some of the key challenges in mental health treatment. Such a model could help researchers quickly sift through the overwhelming amount of information [6] and identify relevant studies or data points, standardize the terminology, and ensure that all relevant studies and data are included in the analysis. Moreover, it could help monitor discussions about mental health and psychedelics use on social media and identify potential areas for further study.
 
-Thus, a customized NER model can improve the accuracy of mental health diagnoses [5], support research and development efforts, and reinforce the study of the therapeutic use of psychedelic drugs. The model's importance lies in its ability to identify relevant data more efficiently, enabling professionals to make informed decisions and take appropriate action.
+Thus, a custom NER model can improve the accuracy of mental health diagnoses [5], support research and development efforts, and reinforce the study of the therapeutic use of psychedelic drugs. The model's importance lies in its ability to identify relevant data more efficiently, enabling professionals to make informed decisions and take appropriate action.
 
 [1] https://www.who.int/news-room/fact-sheets/detail/mental-disorders
 
